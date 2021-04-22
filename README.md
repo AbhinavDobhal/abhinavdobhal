@@ -20,7 +20,7 @@ Skills:<br>
 Projects:<br>
 ![https://www.e-hallpass.com/login](https://www.e-hallpass.com/images/logo.png?raw=true)<br>
 ![https://www.flextimemanager.com/login](https://www.flextimemanager.com/assets/images/logo.png?raw=true)<br>
-![https://www.studentvoicechoicer.com/login](https://eduspiresolutions.org/wp-content/uploads/2020/07/Voice_Choicer_Final_5d951227513807b46cb2a441c778e8ef.png?raw=true)
+![https://www.studentvoicechoicer.com/login](https://www.studentvoicechoicer.com/media/img/Voice-Choicer.png?raw=true)
 
 
 
