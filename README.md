@@ -19,8 +19,8 @@ Skills:<br>
 
 Projects:<br>
 ![https://www.e-hallpass.com/login](https://www.e-hallpass.com/images/logo.png?raw=true)<br>
-![https://www.flextimemanager.com/login](https://www.flextimemanager.com/assets/images/logo.png?raw=true)<br>
-![https://www.studentvoicechoicer.com/login](https://www.studentvoicechoicer.com/media/img/Voice-Choicer.png?raw=true)
+![https://www.flextimemanager.com/login] (https://www.flextimemanager.com/assets/images/logo.png)<br>
+![https://www.studentvoicechoicer.com/login](https://www.studentvoicechoicer.com/media/img/Voice-Choicer.png)<br>
 
 
 
