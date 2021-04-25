@@ -1,5 +1,5 @@
 ### Hi, I’m @abhinavdobhal 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true&hide=contribs" />
 <h3>Welcome to My Git.</h3>
 <p>I am a full-stack developer specialized in <b>Laravel</b> <b>JavaScript</b> and <b>JavaScript frameworks</b>. My focus is always on building the best secure, 
 reliable, and with good User Experience websites.</p>
