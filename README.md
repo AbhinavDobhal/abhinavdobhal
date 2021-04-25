@@ -5,11 +5,11 @@
 reliable, and with good User Experience websites.</p>
 
 Skills:<br>
-&emsp;    -React/Next.js/Material UI/Gatsby/Ant Design<br>
+&emsp;    -React/Next.js/Material UI/Gatsby<br>
 &emsp;    -JavaScript/TypeScript/jQuery<br>
 &emsp;    -CSS/SCSS/Tailwind CSS<br>
 &emsp;    -HTML5<br>
-&emsp;    -Google Maps<br>
+&emsp;    -Cs Card<br>
 &emsp;    -AWS<br>
 &emsp;    -Git<br>
 &emsp;    -Node.js/Express.js<br>
