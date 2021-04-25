@@ -25,7 +25,6 @@ Projects:<br>
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-dobhal-56567245<br/><br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io" />
 <!--
 **AbhinavDobhal/abhinavdobhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
