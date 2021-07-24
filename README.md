@@ -1,4 +1,4 @@
-### Hi, I’m @abhinavdobhal 👋
+###Abhinav Dobhal
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true&hide=contribs" />
 <h3>Welcome to My Git.</h3>
 <p>I am a full-stack developer specialized in <b>Laravel</b> <b>JavaScript</b> and <b>JavaScript frameworks</b>. My focus is always on building the best secure, 
@@ -15,7 +15,7 @@ Skills:<br>
 &emsp;    -Node.js/Express.js<br>
 &emsp;    -Laravel/PHP<br>
 &emsp;    -MongoDB/MySQL/GraphQL<br>
-&emsp;    -Payment(Stripe/Squareup)<br>
+
 
 Projects:<br>
 <img width="782" alt="Screenshot 2021-07-24 at 6 02 16 PM" src="https://user-images.githubusercontent.com/35193029/126868583-1f708bfa-81bf-4a13-bc14-1b1d9eec7fdb.png">
