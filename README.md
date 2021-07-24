@@ -21,7 +21,9 @@ Skills:<br>
 
 Projects:<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nouUo8QAiEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <img width="200" alt="https://www.e-hallpass.com/login" src="https://www.e-hallpass.com/images/logo.png?raw=true"><br><br>
+[![e-Hallpass TV Commercial](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/embed/nouUo8QAiEg)
 <img width="200" alt="https://www.flextimemanager.com/login" src="https://www.flextimemanager.com/assets/images/logo.png"><br><br>
 <img width="200" alt="https://www.studentvoicechoicer.com/login" src="https://www.studentvoicechoicer.com/media/img/Voice-Choicer.png"><br><br>
 <img width="782" alt="Screenshot 2021-07-24 at 6 02 16 PM" src="https://user-images.githubusercontent.com/35193029/126868583-1f708bfa-81bf-4a13-bc14-1b1d9eec7fdb.png">
