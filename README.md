@@ -13,8 +13,8 @@ Skills:<br>
 &emsp;    -HTML5<br>
 &emsp;    -AWS<br>
 &emsp;    -Git<br>
-&emsp;    -Python/django/fastapi<br>
-&emsp;    -Laravel/PHP<br>
+&emsp;    -Python|Django/Fastapi <br>
+&emsp;    -Laravel<br>
 &emsp;    -MySQL/GraphQL<br>
 
 
