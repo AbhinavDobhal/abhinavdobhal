@@ -3,7 +3,7 @@
 
 <p>
   I'm passionate about learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.</p>
-  <p>I am a  developer specialized in <b>Laravel</b>, <b>React JS</b> and <b>Vue JS</b>. My focus is always on building the best secure, 
+  <p>I am a  developer specialized in <b>Python/Laravel</b>, <b>NextJS</b> . My focus is always on building the best secure, 
 reliable, and with good User Experience websites.</p>
 
 Skills:<br>
