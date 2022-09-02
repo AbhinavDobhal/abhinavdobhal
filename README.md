@@ -8,14 +8,11 @@ reliable, and with good User Experience websites.</p>
 
 Skills:<br>
 &emsp;    -React/Next.js<br>
-&emsp;    -JavaScript/TypeScript/jQuery<br>
-&emsp;    -CSS/SCSS/Tailwind CSS<br>
-&emsp;    -HTML5<br>
 &emsp;    -AWS<br>
 &emsp;    -Git<br>
 &emsp;    -Python|Django/Fastapi <br>
 &emsp;    -Laravel<br>
-&emsp;    -MySQL/GraphQL<br>
+&emsp;    -MySQL<br>
 
 
 Projects:<br><br>
