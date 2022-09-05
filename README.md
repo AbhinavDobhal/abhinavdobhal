@@ -1,10 +1,9 @@
 <h1>Abhinav Dobhal</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinavdobhal&layout=compact&repo=github-readme-stats" />
-</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
+
+
 <p>
   I'm passionate about learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.</p>
   <p>I am a  developer specialized in <b>Python/Laravel</b>, <b>NextJS</b> . My focus is always on building the best secure, 
