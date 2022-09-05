@@ -1,5 +1,5 @@
 <h1>Abhinav Dobhal</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 
 <p>
   I'm passionate about learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.</p>
