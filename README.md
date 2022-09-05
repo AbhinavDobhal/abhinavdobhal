@@ -1,7 +1,7 @@
 <h1>Abhinav Dobhal</h1>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 <br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
 
 
 <p>
