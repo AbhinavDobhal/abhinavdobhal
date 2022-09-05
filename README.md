@@ -1,7 +1,4 @@
 <h1>Abhinav Dobhal</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
-<br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
 
 
 <p>
@@ -17,8 +14,14 @@ Skills:<br>
 &emsp;    -Laravel<br>
 &emsp;    -MySQL<br>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
+<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
+
 
 Projects:<br><br>
+
+
 
 <img width="200" alt="https://www.e-hallpass.com/login" src="https://www.e-hallpass.com/images/logo.png?raw=true"><br><br>
 <img width="200" alt="https://www.flextimemanager.com/login" src="https://www.flextimemanager.com/assets/images/logo.png"><br><br>
