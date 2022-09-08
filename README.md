@@ -3,8 +3,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 <br/>
-<img align="right" width="50%" src="https://ionicabizau.github.io/github-profile-languages/api.html?@abhinavdobhal" />
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@abhinavdobhal" frameborder="0"></iframe>
 <p>
   I'm passionate about learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.</p>
   <p>I am a  developer specialized in <b>Python/Laravel</b>, <b>NextJS</b> . My focus is always on building the best secure, 
