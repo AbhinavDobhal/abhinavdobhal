@@ -3,7 +3,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 <br/>
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact" />
+<img align="right" width="50%" src="https://ionicabizau.github.io/github-profile-languages/api.html?@abhinavdobhal" />
 
 <p>
   I'm passionate about learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.</p>
