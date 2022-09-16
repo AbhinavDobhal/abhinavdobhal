@@ -16,7 +16,7 @@ Skills:<br>
 &emsp;    -Laravel<br>
 &emsp;    -MySQL<br>
 [Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]Abhinav Dobhal<br/><br/>
-
+[Abhinav Dobhal](https://www.linkedin.com/in/abhinav-dobhal-56567245/)
 
 
 <!--
