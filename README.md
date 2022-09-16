@@ -15,12 +15,7 @@ Skills:<br>
 &emsp;    -Git<br>
 &emsp;    -Laravel<br>
 &emsp;    -MySQL<br>
-
-<br/><br/><br/><br/>
-Projects:<br><br>
-
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-dobhal-56567245<br/><br/>
+[Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]Abhinav Dobhal<br/><br/>
 
 
 
