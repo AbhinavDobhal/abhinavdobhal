@@ -5,16 +5,13 @@
 <br/>
 <p>
   I'm passionate about learning new things and solving problems using technologies. I welcome challenges that bring out the genius in me.</p>
-  <p>I am a  developer specialized in <b>Python/Laravel</b>, <b>React/NextJS</b> . My focus is always on building the best secure, 
+  <p>I am a  developer specialized in <b>Python</b> . My focus is always on building the best secure, 
 reliable, and with good User Experience websites.</p>
 
 Skills:<br>
-&emsp;    -Python|Django/Fastapi <br>
-&emsp;    -React/Next.js<br>
-&emsp;    -AWS<br>
-&emsp;    -Git<br>
-&emsp;    -Laravel<br>
-&emsp;    -MySQL<br>
+Python | FastAPI | Django | Flask | OpenAI | LangChain | Docker | Terraform | Heroku | AWS
+
+
 <br/>
 [Abhinav Dobhal Linkedin ](https://www.linkedin.com/in/abhinav-dobhal-56567245/)
 
