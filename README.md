@@ -13,7 +13,7 @@ I'm a self-taught passionate developer who loves learning new things and solving
 
 **Skills:**
 
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
 <code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
 <code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
