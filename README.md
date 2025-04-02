@@ -1,7 +1,7 @@
 **Abhinav Dobhal** <br>
 I'm a self-taught passionate developer who loves learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.
 
-**Lead Developer at Rubico**
+**Technical Lead at Rubico**
 
 **About me**
 
