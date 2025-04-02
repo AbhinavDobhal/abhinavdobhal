@@ -1,7 +1,7 @@
 <h1>Abhinav Dobhal</h1>
 
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
+<img align="right" width="50%" src="https://github-readme-stats-edg547drz-abhinavdobhals-projects.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
 <br/>
 <p>
   I'm passionate about learning new things and solving problems using technologies. I welcome challenges that bring out the genius in me.</p>
