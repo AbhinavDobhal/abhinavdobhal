@@ -1,21 +1,28 @@
-<h1>Abhinav Dobhal</h1>
+I'm a self-taught passionate developer who loves learning new things and solving problems using technology. I welcome challenges that bring out the genius in me.
+
+**Lead Developer at Rubico**
+
+**About me**
+
+- 💼 Backend Developer specialized in **Python**
+- 🚀 Focused on building **secure, reliable, and user-friendly** applications
+- ❤️ Passionate about **problem-solving** and **technology exploration**
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/abhinav-dobhal-56567245/)
 
 
-<img align="right" width="50%" src="https://github-readme-stats-lyart-sigma.vercel.app/api?username=abhinavdobhal&theme=react&show_icons=true&count_private=true" />
-<br/>
-<p>
-  I'm passionate about learning new things and solving problems using technologies. I welcome challenges that bring out the genius in me.</p>
-  <p>I am a  developer specialized in <b>Python</b> . My focus is always on building the best secure, 
-reliable, and with good User Experience websites.</p>
+**Skills:**
 
-Skills:<br>
-Python | FastAPI | Django | Flask | OpenAI | LangChain | Docker | Terraform | Heroku | AWS
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
+<code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
+<code><img height="20" alt="flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
+<code><img height="20" alt="openai" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"></code>
+<code><img height="20" alt="langchain" src="https://raw.githubusercontent.com/github/explore/main/topics/langchain/langchain.png"></code>
+<code><img height="20" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" alt="terraform" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
+<code><img height="20" alt="heroku" src="https://raw.githubusercontent.com/github/explore/main/topics/heroku/heroku.png"></code>
+<code><img height="20" alt="aws" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 
+| <a href="https://github.com/abhinavdobhal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/abhinavdobhal"><img align="center" src="https://github-readme-stats-lyart-sigma.vercel.app/api/top-langs/?username=abhinavdobhal&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<br/>
-[Abhinav Dobhal Linkedin ](https://www.linkedin.com/in/abhinav-dobhal-56567245/)
-
-
-<!--
-**AbhinavDobhal/abhinavdobhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
