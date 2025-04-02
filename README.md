@@ -12,7 +12,18 @@ I'm a self-taught passionate developer who loves learning new things and solving
 
 
 **Skills:**
-
+<p align="center">
+  <img height="25" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="25" alt="fastapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img height="40" alt="django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img height="40" alt="flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img height="40" alt="openai" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" />
+  <img height="40" alt="langchain" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img height="40" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="40" alt="terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img height="40" alt="heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+  <img height="40" alt="aws" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+</p>
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
 <code><img height="20" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
