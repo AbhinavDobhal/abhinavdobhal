@@ -15,19 +15,19 @@ I'm a self-taught passionate developer who loves learning new things and solving
 
 ---
 
-**Skills:**
+**Skills**
 
-<code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="25" alt="fastapi" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-<code><img height="25" alt="django" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"></code>
-<code><img height="25" alt="flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
-<code><img height="25" alt="docker" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="25" alt="terraform" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
-<code><img height="25" alt="aws" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+- Python  
+- FastAPI  
+- Django  
+- Flask  
+- Next.js  
+- NestJS  
+- Docker  
 
 ---
 
-**Certifications:**
+**Certifications**
 
 [![Completed n8n Course Level 2](https://img.shields.io/badge/n8n%20Course%20Level%202-Completed-brightgreen?logo=n8n&logoColor=white)](https://community.n8n.io/badges/105/completed-n8n-course-level-2?username=abhinav_dobhal)
 
